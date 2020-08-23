@@ -26,7 +26,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="brielsilva's Github stats" src="github-readme-stats-omega-two.vercel.app/api?username=brielsilva&show_icons=true&hide_border=true" />
+  <img align="left" alt="brielsilva's Github stats" src="https://github-readme-stats-omega-two.vercel.app/api?username=brielsilva&show_icons=true&hide_border=true" />
   
  </details>
 
