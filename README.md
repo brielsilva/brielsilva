@@ -7,6 +7,10 @@
 
 <br/>
 
+## Contact me
+[<img align="left" alt="gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"][linkedin]
+
 ### Langueges and Tools
 
 [<img align="left" alt="Htlm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -20,5 +24,5 @@
 
 
 
-[gmail] = gabrielcostasilva100@gmail.com
-[linkedin] = https://www.linkedin.com/in/gabriel-costa-29ab71190/
+[gmail]: gabrielcostasilva100@gmail.com
+[linkedin]: https://www.linkedin.com/in/gabriel-costa-29ab71190/
