@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel
 
-## I'm a college student from brazil, studying Computer Engineer
+## I'm a Member of LAPISCO, a laboratory with focus on computer vision, currently i am a software engineer on the lab
 - NodeJS, Java, React e Docker
 - Looking to collaborate on open source projects
 
