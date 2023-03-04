@@ -1,8 +1,7 @@
-### Hi there, I'm Gabriel - aka Littlekouhai
+### Hi there, I'm Gabriel
 
-## I'm a college student from brazil, First semester on Computer Engineer
-- I'm currently learning web development
-- I'm currently learning React
+## I'm a college student from brazil, studying Computer Engineer
+- NodeJS, Java, React e Docker
 - Looking to collaborate on open source projects
 
 <br/>
@@ -15,11 +14,8 @@
 
 ### Langueges and Tools
 
-[<img align="left" alt="Htlm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
-[<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>]
+[<img align="left"
+      src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light"]
 
 <br/>
 <br/>
