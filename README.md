@@ -14,8 +14,11 @@
 
 ### Langueges and Tools
 
-[<img align="left"
-      src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light"]
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,react,graphql,postgres,spring" />
+  </a>
+</p>
 
 <br/>
 <br/>
