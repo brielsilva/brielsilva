@@ -1,8 +1,5 @@
-### Hi there, I'm Gabriel
-
-## I'm a Member of LAPISCO, a laboratory with focus on computer vision, currently i am a software engineer on the lab
-- NodeJS, Java, React e Docker
-- Looking to collaborate on open source projects
+### Hi there, I'm Gabriel and i am a software engineer
+- NodeJS, Java, Python, Docker, Kubernetes, 
 
 <br/>
 
@@ -16,20 +13,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,react,graphql,postgres,spring" />
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,react,graphql,postgres,spring,java,python" />
   </a>
 </p>
 
 <br/>
 <br/>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="brielsilva's Github stats" src="https://github-readme-stats.vercel.app//api?username=brielsilva&show_icons=true&hide_border=true&count_private=true" />
-  
- </details>
-
-
 
 
 [gmail]: gabrielcostasilva100@gmail.com
