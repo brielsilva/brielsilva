@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel and i am a software engineer
-- NodeJS, Java, Python, Docker, Kubernetes, 
+- NodeJS, Java, Python, Docker, Kubernetes. 
 
 <br/>
 
